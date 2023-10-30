@@ -1,18 +1,14 @@
 ## senpai bot
 
-this is a simple reddit bot which **downloads** "hot" posts of the given subreddits.
+reddit bot which **downloads** "hot" posts of the given subreddits.
 
 ### Dependencies
-
-In order to use this bot you need to install the dependencies 
 
 ```
 pip install -r requirements.txt
 
 ```
 ### Installation
-
-To make this bot work, you need to have a reddit account.
 
 1) Sign in with your reddit account
 2) Go [here](https://www.reddit.com/prefs/apps/) and create an app
@@ -42,7 +38,4 @@ The images will be downloaded in the img folder.
 1) You can add your favourite subreddits in the subreddits.txt.
 2) You can alter the limit size for the posts
 
-### Have doubts? 
-
-Feel free to raise an issue.
 
