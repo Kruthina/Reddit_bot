@@ -1,4 +1,4 @@
-## senpai bot
+## Reddit bot
 
 reddit bot which **downloads** "hot" posts of the given subreddits.
 
